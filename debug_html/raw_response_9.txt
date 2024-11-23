@@ -1,0 +1,1586 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!doctype html>
+<html lang="en">
+<head itemscope itemtype="https://schema.org/WebSite">
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+            <!-- plc: default meta setup -->
+
+
+    <!-- law-firms --> 
+
+
+
+  
+
+
+
+
+        
+
+
+
+
+    <title>Law Firms | The American Lawyer</title>  
+
+
+
+
+ 
+
+
+
+
+    
+    <meta name="pageName" content="Law Firms | The American Lawyer" />
+    <meta prefix="og: http://ogp.me/ns#" property="og:type" content="website" />
+    <meta prefix="og: http://ogp.me/ns#" property="og:title" content="Law Firms | The American Lawyer" />
+    <meta prefix="og: http://ogp.me/ns#" property="og:site_name" content="The American Lawyer" />
+    <meta prefix="og: http://ogp.me/ns#" property="og:url" content="https://www.law.com/americanlawyer/law-firm-profile/?id=9" />
+    <meta prefix="og: http://ogp.me/ns#" property="og:image" content="https://www.law.com/assets/css/stylesheets/images/social-share-law-716x372.png" />
+    <meta prefix="og: http://ogp.me/ns#" property="og:description" content="" />
+    <meta name="google-site-verification" content="MhtgloON-Yd6Sh82vaxRxR4XhqKDbubCh5_AegSEbA4" /> 
+
+  
+        <link rel="canonical" href="https://www.law.com/americanlawyer/law-firm-profile/?id=9" />  
+
+
+    
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+        <link rel="manifest" href="/site.webmanifest">
+        <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#032d55">
+        <meta name="msapplication-TileColor" content="#032d55">
+        <meta name="theme-color" content="#ffffff">
+  
+
+    
+
+
+          
+
+       
+
+
+
+
+
+
+<!-- Start VWO Async SmartCode -->
+<script type='text/javascript' id='vwoCode'>
+window._vwo_code=window._vwo_code || (function() {
+var account_id=667309,
+version=1.4,
+settings_tolerance=2000,
+library_tolerance=2500,
+use_existing_jquery=false,
+is_spa=1,
+hide_element='body',
+
+/* DO NOT EDIT BELOW THIS LINE */
+f=false,d=document,vwoCodeEl=document.querySelector('#vwoCode'),code={use_existing_jquery:function(){return use_existing_jquery},library_tolerance:function(){return library_tolerance},finish:function(){if(!f){f=true;var e=d.getElementById('_vis_opt_path_hides');if(e)e.parentNode.removeChild(e)}},finished:function(){return f},load:function(e){var t=d.createElement('script');t.fetchPriority='high';t.src=e;t.type='text/javascript';t.innerText;t.onerror=function(){_vwo_code.finish()};d.getElementsByTagName('head')[0].appendChild(t)},getVersion:function(){return version},getMatchedCookies:function(e){var t=[];if(document.cookie){t=document.cookie.match(e)||[]}return t},getCombinationCookie:function(){var e=code.getMatchedCookies(/(?:^|;)\s?(vis_opt_exp\d+_combi=[^;$])/gi);e=e.map(function(e){try{var t=decodeURIComponent(e);if(!/vis_opt_exp\d+_combi=(?:\d+,?)+\s*$/.test(t)){return''}return t}catch(e){return''}});var i=[];e.forEach(function(e){var t=e.match(/([\d,]+)/g);t&&i.push(t.join('-'))});return i.join('|')},init:function(){window.settings_timer=setTimeout(function(){_vwo_code.finish()},settings_tolerance);var e=d.createElement('style'),t=hide_element?hide_element+'{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}':'',i=d.getElementsByTagName('head')[0];e.setAttribute('id','_vis_opt_path_hides');vwoCodeEl&&e.setAttribute('nonce',vwoCodeEl.nonce);e.setAttribute('type','text/css');if(e.styleSheet)e.styleSheet.cssText=t;else e.appendChild(d.createTextNode(t));i.appendChild(e);var n=this.getCombinationCookie();this.load('https://dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&f='+ +is_spa+'&vn='+version+(n?'&c='+n:''));return settings_timer}};window._vwo_settings_timer = code.init();return code;}());
+</script>
+<!-- End VWO Async SmartCode -->
+
+
+
+
+
+
+
+    <!-- Programmatic Meta -->
+       <meta  name="description" content="The American Lawyer provides the most informed and trusted source of news, data, analysis and forecasting on the global business of law." data-src="meta-tag-brand"/>
+
+
+    <!-- Programmatic Link Tags -->
+       <link  href="https://images.law.com" name="default" rel="dns-prefetch"/>
+       <link  href="https://store.law.com" name="default" rel="dns-prefetch"/>
+       <link  href="https://z.moatads.com/almheader466656885399/moatheader.js" name="a-moatads" as="script" rel="prefetch"/>
+       <link  href="https://mb.moatads.com" name="default" rel="preconnect"/>
+       <link  href="https://vi.ml314.com" name="default" rel="preconnect"/>
+       <link  href="https://vi.ml314.com" name="default" rel="dns-prefetch"/>
+       <link  href="https://use.typekit.net/qkq4rhw.css" name="main-typekit-fonts-preload" as="style" rel="prefetch"/>
+       <link  href="/assets/build/css/fa-icons-lib.min.css" name="fa-icons-lib-prefetch-here-here" as="style" rel="preload" onload="this.onload=null;this.rel='stylesheet'"/>
+       <link  href="/assets/master-template/css/plc/custom-law-bootstrap-4.6/bootstrap.min.css?2024-11-23-17" name="custom-bootstrap-law-prefetch" as="style" rel="prefetch"/>
+       <link  rel="prefetch" href="https://fonts.gstatic.com/s/merriweather/v22/u-4n0qyriQwlOrhSvowK_l52xwNZVcf6lvg.woff2" type="font/woff2" as="font" crossorigin="crossorigin"/>
+       <link  rel="prefetch" href="https://fonts.gstatic.com/s/merriweather/v22/u-4n0qyriQwlOrhSvowK_l52xwNZXMf6lvg.woff2" type="font/woff2" as="font" crossorigin="crossorigin"/>
+       <link  rel="prefetch" href="https://fonts.gstatic.com/s/merriweather/v22/u-4n0qyriQwlOrhSvowK_l52xwNZV8f6lvg.woff2" type="font/woff2" as="font" crossorigin="crossorigin"/>
+       <link  rel="prefetch" href="https://fonts.gstatic.com/s/merriweather/v22/u-4n0qyriQwlOrhSvowK_l52xwNZVsf6lvg.woff2" type="font/woff2" as="font" crossorigin="crossorigin"/>
+       <link  rel="prefetch" href="https://fonts.gstatic.com/s/merriweather/v22/u-4n0qyriQwlOrhSvowK_l52xwNZWMf6.woff2" type="font/woff2" as="font" crossorigin="crossorigin"/>
+
+    <!--programmatic image preload -->
+
+    <!-- start hardcoded prefetches -->
+
+
+
+
+
+
+
+
+
+<!-- end hard coded prefetches -->
+
+    <!-- Programmatic CSS -->
+
+      <link rel="stylesheet" href="/assets/css/falcon-ui.css?2024-11-23-17" type="text/css" data-name="tasr-falcon-ui" media="all"  >
+      <link rel="stylesheet" href="/assets/master-template/css/plc/custom-law-bootstrap-4.6/bootstrap.min.css?2024-11-23-17" type="text/css" data-name="custom-bootstrap-law" media="all"  >
+      <link rel="stylesheet" href="/assets/master-template/css/plc/header.css?2024-11-23-17" type="text/css" data-name="header-global" media="all"  >
+      <link rel="stylesheet" href="/assets/master-template/css/plc/search-header.css?2024-11-23-17" type="text/css" data-name="search-global" media="all"  >
+      <link rel="stylesheet" href="/assets/master-template/css/plc/brand-header.css?2024-11-23-17" type="text/css" data-name="brand-header-global" media="all"  >
+      <link rel="stylesheet" href="/assets/master-template/css/plc/footer.css?2024-11-23-17" type="text/css" data-name="footer-global" media="all"  >
+      <link rel="stylesheet" href="/assets/master-template/css/plc/layout.css?2024-11-23-17" type="text/css" data-name="layout-global" media="all"  >
+      <link rel="stylesheet" href="/assets/master-template/css/plc/style.css?2024-11-23-17" type="text/css" data-name="style-global" media="all"  >
+      <link rel="stylesheet" href="/assets/master-template/css/plc/pages/law-firms-profile.css?2024-11-23-17" type="text/css" data-name="default" media="screen"  >
+
+
+    <style>
+        .main-nav-grey img, .brand-nav img {display: none;}
+        .menu-search img {display: none !important;}
+    </style>
+
+
+
+    <link href="/assets/master-template/css/search.css" rel="stylesheet">
+
+
+
+
+
+
+
+
+
+
+
+<!-- standard js calls -->
+
+<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" defer></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+      WebFont.load({ google: { families: ['Open Sans:300,400,700:latin'] } });
+    });
+
+    //Code snippet to speed up Google Fonts rendering: googlefonts.3perf.com
+
+    !function(e,n,t){"use strict";var o="https://fonts.googleapis.com/css?family=Open+Sans&display=swap",r="__3perf_googleFonts_1ab6d";function c(e){(n.head||n.body).appendChild(e)}function a(){var e=n.createElement("link");e.href=o,e.rel="stylesheet",c(e)}function f(e){if(!n.getElementById(r)){var t=n.createElement("style");t.id=r,c(t)}n.getElementById(r).innerHTML=e}e.FontFace&&e.FontFace.prototype.hasOwnProperty("display")?(t[r]&&f(t[r]),fetch(o).then(function(e){return e.text()}).then(function(e){return e.replace(/@font-face {/g,"@font-face{font-display:swap;")}).then(function(e){return t[r]=e}).then(f).catch(a)):a()}(window,document,localStorage);
+</script>
+
+
+<!-- standard js calls -->
+
+    <!-- Programmatic JS -->
+      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" data-name="default"   ></script>
+      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-migrate/3.3.1/jquery-migrate.min.js" data-name="jquery-migrate" defer  ></script>
+      <script type="text/javascript" src="/assets/master-template/js/bombora-rtvi.js?2024-11-23-17" data-name="bombora-rtvi"   async></script>
+      <script type="text/javascript" src="https://cdn.yourbow.com/alm/law/hbyb.js?2024-11-23-17" data-name="prebid"   async></script>
+      <script type="text/javascript" src="https://z.moatads.com/almheader466656885399/moatheader.js" data-name="moatheader"   async></script>
+      <script type="text/javascript" src="/assets/master-template/js/release/lazyloadXT.min.js" data-name="lazyload-funcs" defer  ></script>
+      <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js?2024-11-23-17" data-name="default"   ></script>
+      <script type="text/javascript" src="/assets/master-template/js/plc/common.js?2024-11-23-17" data-name="common"   ></script>
+      <script type="text/javascript" src="/assets/master-template/js/olytics_dfp.js?2024-11-23-17" data-name="olytics-dfp"   ></script>
+      <script type="text/javascript" src="/assets/master-template/js/omeda.js?2024-11-23-17" data-name="omeda-support-script"   ></script>
+
+    <!-- Programmatic NoScript Tags -->
+
+    <!-- Programmatic Tags -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <script>
+    var falcon = (function(app) {
+        app.page_data = {
+            url: '',
+            domainId: '12',
+            contentId: '',
+            authorId: '',
+            channelId: '',
+            sectionId: '',
+            type: '',
+            plcSite: true,
+            domainShortName: 'plc-tal',
+            currentPage: 1,
+        };
+        return app;
+    }(falcon || {}));
+  </script>
+</head>
+
+
+
+
+<body class=" plc plc-tal env-prod  plc-tal framework-v1.0 page-type-law-firms template-type-unknown">
+<div id='gpt-interstitial'></div>
+<div id='gpt-footer'></div>
+
+
+
+
+<!-- START Tealium -->
+<!-- serverId: prod -->
+
+<script type="text/javascript">
+
+var utag_data = { "alm_site" : "TAL08", "alm_site_group" : "nationals", "server" : "tal", "page_name" : "law-firm-profile:", "content_type" : "hub", "gpt_page" : "americanlawyer/law-firm-profile/", "ad_slots" : { "gpt-horiz1": { "name": "gpt-horiz1", "sizes": [[320, 50], [728, 90], [970, 90], [970, 250], [1400, 320], [1200, 250], [300, 250], [2, 2]], "targeting": {"position": ["horiz1"]}, "mapping": [[1024, 0], [[728, 90], [970, 90], [970, 250], [1400, 320], [1200, 250]], [768, 0], [728, 90], [0, 0], [[320, 50],[300, 250]]], }, "gpt-horiz2": { "name": "gpt-horiz2", "sizes": [[320, 50], [300, 250], [728, 90], [970, 90], [970, 250], [1400, 320], [1400, 700], [1200, 250], [1200, 600], [2, 2], [1, 1]], "targeting": {"position": ["horiz2"]}, "mapping": [[1024, 0], [[728, 90], [970, 90], [970, 250], [1400, 320], [1400, 700], [1200, 250], [1200, 600], [1, 1]], [768, 0], [728, 90], [0, 0], [[320, 50],[2, 2],[300, 250]]], }, "gpt-footer": { "name": "gpt-footer", "sizes": [[300, 250], [729, 90], [970, 90], [320, 50]], "targeting": {"position": ["footer"]}, "mapping": [[1024, 0], [729, 90], [768, 0], [729, 90], [0, 0], [320, 50]], }, "gpt-interstitial": { "name": "gpt-interstitial", "sizes": [["OutOfPageSlot"]], "targeting": {"position": ["interstitial"]}, }, "gpt-es_pushdown": { "name": "gpt-es_pushdown", "sizes": [[1090, 95]], "targeting": {"position": ["es_pushdown"]}, "mapping": [[1024, 0], [1090, 95], [768, 0], [], [0, 0], []], }, },};
+</script>
+
+<script type="text/javascript">
+(function(a,b,c,d){ a='//tags.tiqcdn.com/utag/alm/main/prod/utag.js'; b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true; a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a); })();
+</script>
+<!-- END Tealium -->
+
+<!-- tealiumEnv: prod -->
+
+
+
+<div id="falcon-ui-container"></div>
+<div class="row mb-0 navbar smart-scroll" id="navDivScroll">
+    <div class="col-12 padding0">
+      <div class="block header">
+
+
+
+
+<div id="leaderboard" class="col-12 text-center">
+    <div id="gpt-horiz1" class="block d-rectangle"></div>
+</div>
+
+
+<script>
+    $( document ).ready(function() {
+        $( "#closeBreaking" ).click(function() {
+            sessionStorage.setItem('brNews-plc-tal', 'false');
+            $( "#breaking-news" ).fadeOut( "slow", function() {
+            });        
+        });
+
+        // Get saved data from sessionStorage
+        var data = sessionStorage.getItem('brNews-plc-tal');
+        if(data != 'false'){
+            $("#breaking-news").css('display','block');
+        }else{
+            $("#breaking-news").css('display','none');
+        }
+    });
+</script><div id="header-top" class="hidden-mobile">
+    <div class="nav-box">
+            <div>
+                <nav class="jason">
+                    <ul class="sub-nav nopadding menuContentList" id="globalIcon">
+                        <li class="">
+                            <a class="whiteText text-decoration-none">
+                                <img class="globe-img" src="/assets/master-template/images/lawdo-images/svg-header-icons/region.svg">United States
+                            </a>
+                            <div class="sub-nav">
+                                <div class="outer edition">
+                                    <ul class="nav-topics USdropdown menuContentList">
+                                        <div class="col-1-2 left">
+                                            <li class="USdropdownText"><a href="/" class="active-anchor"><img class="edition-active" src="/assets/master-template/images/lawdo-images/Arrow_Icon.png">United States</a></li>
+                                            <li class="IntText"><a href="/international-edition/">International</a></li>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+    </div>
+    <div class="nav-box">
+            <a id="iconSign" href="https://store.law.com/Registration/Login.aspx?promoCode=TAL&source=https%3A%2F%2Fwww.law.com%2Famericanlawyer%2Flaw-firm-profile%2F%3Fid%3D9">
+                <span class="accIcon">
+                    <img src="/assets/master-template/images/lawdo-images/svg-header-icons/my-account.svg">
+                </span>
+                <span class="myAccText"> Sign In</span></a>
+    </div>
+    <div class="nav-box">
+        <img class="calendar-icon" src="/assets/master-template/images/lawdo-images/svg-header-icons/event.svg">
+        <a id="iconSign" class="whiteText text-decoration-none" href="/events">
+            <span>Events</span>
+        </a>
+    </div>
+    <div class="nav-box">
+        <img class="calendar-icon" src="/assets/master-template/images/lawdo-images/svg-header-icons/email-icon.svg">
+        <a id="iconSign" class="whiteText text-decoration-none" href="https://store.law.com/Registration/Newsletters.aspx?promoCode=PAR&intcmp=source_website_medium_header_campaign_newsletterpagenewux2023_content_navlink_term_law">
+            <span>Newsletters</span>
+        </a>
+    </div>
+</div> <!-- end header-top -->
+
+
+
+<div id="header-bottom" class="hidden-mobile">
+    <div class="nav-box-bottom menu-pos">
+        <a class="nav-link nopadding" id="menu-icon" role="button" aria-haspopup="true" aria-expanded="false">
+            <span class="menuIcon">
+                <img src="/assets/master-template/images/lawdo-images/svg-header-icons/menu.svg">
+                <span>
+                    <p class="menuTxt-closeTxt">MENU</p>
+                </span>
+            </span>
+        </a>
+        <div id="main-menu"> 
+             
+            <form id="menuDropDown" class="dropdown-menu whiteText menuDropDown" aria-labelledby="navbarDropdown">
+                <div id="menuClose" class="col-1 text-center floatLeft"><img class="close" alt="Close Menu" src="/assets/master-template/images/close-btn.png"><p class="menuTxt-closeTxt">CLOSE</p></div>
+       
+                <div class="nav col-sm-6 flex-column nav-pills floatLeft menuTabsMargin" id="v-pills-tab" role="tablist" aria-orientation="vertical" aria-labelledby="navbarDropdown">
+                    <article class="menuTabsMargin-domain">
+                        <a href="/" class="menuTabsMargin-header">
+                            Law.com
+                        </a>
+                    </article>
+                    <ul class="main-links-wrapper">
+                        <li><a class="main-links" href="/">Homepage<a/></li>
+                        <li><a class="main-links" href="/static/about-us/">About Us</a></li>
+                        <li><a class="main-links" href="/events/">Events</a></li>
+                    </ul>
+                    <div class="nav-link dropdown-item menuPanels active" id="v-pills-publications-tab" data-toggle="pill" href="#v-pills-publications" role="tab" aria-controls="v-pills-publications" aria-selected="true">Publications<img class="nav-arrow" src="/assets/master-template/images/CCA-images/util-icons/Arrow.png" alt="Right Arrow"></div>
+                    <div class="nav-link dropdown-item menuPanels" id="v-pills-topics-tab" data-toggle="pill" href="#v-pills-topics" role="tab" aria-controls="v-pills-topics" aria-selected="false">Topics<img class="nav-arrow" src="/assets/master-template/images/CCA-images/util-icons/Arrow.png" alt="Right Arrow"></div>
+                    <div class="nav-link dropdown-item menuPanels" id="v-pills-insights-tab" data-toggle="pill" href="#v-pills-insights" role="tab" aria-controls="v-pills-insights" aria-selected="false">Insights & Analysis<img class="nav-arrow" src="/assets/master-template/images/CCA-images/util-icons/Arrow.png" alt="Right Arrow"></div>
+                    <div class="nav-link dropdown-item menuPanels" id="v-pills-ranks-tab" data-toggle="pill" href="#v-pills-ranks" role="tab" aria-controls="v-pills-ranks" aria-selected="false">Surveys & Rankings<img class="nav-arrow" src="/assets/master-template/images/CCA-images/util-icons/Arrow.png" alt="Right Arrow"></div>
+                    <div class="nav-link dropdown-item menuPanels" id="v-pills-firms-tab" data-toggle="pill" href="#v-pills-firms" role="tab" aria-controls="v-pills-firms" aria-selected="false">Law Firms<img class="nav-arrow" src="/assets/master-template/images/CCA-images/util-icons/Arrow.png" alt="Right Arrow"></div>
+                    <div class="nav-link dropdown-item menuPanels" id="v-pills-pract-tab" data-toggle="pill" href="#v-pills-pract" role="tab" aria-controls="v-pills-pract" aria-selected="false">Practice Tools <br>& Resources<img class="nav-arrow" src="/assets/master-template/images/CCA-images/util-icons/Arrow.png" alt="Right Arrow"></div>
+                    <div class="nav-link dropdown-item menuPanels" id="v-pills-comms-tab" data-toggle="pill" href="#v-pills-comms" role="tab" aria-controls="v-pills-comms" aria-selected="false">Communities<img class="nav-arrow" src="/assets/master-template/images/CCA-images/util-icons/Arrow.png" alt="Right Arrow"></div>
+                    <div class="nav-link dropdown-item menuPanels"><a href="/public-notice/" class="navLink">Public Notices</a></div>
+                    <div class="nav-link dropdown-item menuPanels" id="v-pills-all-tab" data-toggle="pill" href="#v-pills-all" role="tab" aria-controls="v-pills-all" aria-selected="false">All Sections<img class="nav-arrow" src="/assets/master-template/images/CCA-images/util-icons/Arrow.png" alt="Right Arrow"></div>
+                    <div class="socialMediaPadding">
+                        <a href="https://twitter.com/lawdotcom" target="_blank"><img class="see-all-icon-img" src="/assets/master-template/images/CCA-images/util-icons/menu-twitter.png"></a>
+                        <a href="https://www.linkedin.com/company/law-com/" target="_blank"><img class="see-all-icon-img" src="/assets/master-template/images/CCA-images/util-icons/menu-linkedin.png"></a>
+                        <a href="https://www.facebook.com/LawdotcomALM/" target="_blank" ><img class="see-all-icon-img" src="/assets/master-template/images/CCA-images/util-icons/menu-facebook.png"></a>
+                        <a href="http://feeds.feedblitz.com/law/legal-news/" target="_blank"><img class="see-all-icon-img" src="/assets/master-template/images/CCA-images/util-icons/menu-rss.png"></a>
+                    </div>
+                </div>
+                <div class="tab-content col-sm-6 floatLeft tabContentPadding" id="v-pills-tabContent">
+                    <div class="tab-pane fade show active" id="v-pills-publications" role="tabpanel" aria-labelledby="v-pills-publications-tab"> 
+                        <div class="col-lg-12 nopadding">
+                            <p class="membershipText">MEMBERSHIP PROGRAMS</p>  
+                            <ul class="menuContentList nopadding">
+                                <li><a class="tabContentList" href="/pro/">Law.com Pro</a></li>
+                                <li><a class="tabContentList" href="/pro-mid-market/">Law.com Pro Mid-Market</a></li>
+                                <li><a class="tabContentList" href="/global-leaders-in-law/">Global Leaders In Law</a></li>
+                                <li><a class="tabContentList" href="/global-leaders-in-law-advisers/">Global Leaders In Law Advisers</a></li>
+                                <li><a class="tabContentList" href="/private-client-global-elite/">Private Client Global Elite</a></li>
+                            </ul>
+                        </div>
+                        <p class="membershipText">MEDIA BRANDS</p>
+                        <ul class="nopadding menuContentList">
+                            <li><a class="tabContentList" href="/">Law.com</a></li>
+                            <li><a class="tabContentList" href="/radar/">Law.com Radar</a></li>
+                            <li><a class="tabContentList" href="/americanlawyer/">American Lawyer</a></li>
+                            <li><a class="tabContentList" href="/corpcounsel/">Corporate Counsel</a></li>
+                            <li><a class="tabContentList" href="/nationallawjournal/">National Law Journal</a></li>
+                            <li><a class="tabContentList" href="/legaltechnews/">Legal Tech News</a></li>
+                            <li><a class="tabContentList" href="/newyorklawjournal/">New York Law Journal</a></li>
+                            <li><a class="tabContentList" href="/thelegalintelligencer/">The Legal Intelligencer</a></li>
+                            <li><a class="tabContentList" href="/therecorder/">The Recorder</a></li>
+                            <li><a class="tabContentList" href="/ctlawtribune/">Connecticut Law Tribune</a></li>
+                            <li><a class="tabContentList" href="/dailybusinessreview/">Daily Business Review</a></li>
+                            <li><a class="tabContentList" href="/dailyreportonline/">Daily Report</a></li>
+                            <li><a class="tabContentList" href="/delbizcourt/">Delaware Business Court Insider</a></li>
+                            <!--<li><a class="tabContentList" href="/delawarelawweekly/">Delaware Law Weekly</a></li>-->
+                            <li><a class="tabContentList" href="/njlawjournal/">New Jersey Law Journal</a></li>
+                            <li><a class="tabContentList" href="/texaslawyer/">Texas Lawyer</a></li>
+                            <li><a class="tabContentList" href="/supremecourtbrief/">Supreme Court Brief</a></li>
+                            <li><a class="tabContentList" href="/litigationdaily/">Litigation Daily</a></li>
+                        </ul>
+                    </div>
+                <div class="tab-pane fade" id="v-pills-topics" role="tabpanel" aria-labelledby="v-pills-topics-tab">
+                        <ul class="nopadding menuContentList">
+                            <li><a class="tabContentList" href="/topics/litigation/">Litigation</a></li>
+                            <li><a class="tabContentList" href="/topics/deals-and-transactions/">Deals & Transactions</a></li>
+                            <li><a class="tabContentList" href="/topics/law-firm-management/">Law Firm Management</a></li>
+                            <li><a class="tabContentList" href="/topics/legal-practice-management/">Legal Practice Management</a></li>
+                            <li><a class="tabContentList" href="/topics/legal-technology/">Legal Technology</a></li>
+                            <li><a class="tabContentList" href="/topics/intellectual-property/">Intellectual Property</a></li>
+                            <li><a class="tabContentList" href="/topics/cybersecurity/">Cybersecurity</a></li>
+                        </ul>
+                        <div class="seeAllPadding"><span><a href="/topics/" class="contentTab-seeall" >All Law Topics <img class="see-all-icon-img" src="/assets/master-template/images/CCA-images/util-icons/menu-more-arrow.svg"></a></span></div>
+                        <div class="dropdown-item-border"></div>
+                </div>
+                <div class="tab-pane fade" id="v-pills-insights" role="tabpanel" aria-labelledby="v-pills-insights-tab">
+                    <ul class="nopadding menuContentList">
+                            <li><a class="tabContentList" href="/static/briefings/">Briefings</a></li>
+                        <li><a class="tabContentList" href="http://www.lawjournalnewsletters.com/">Law Journal Newsletters</a></li>
+                        <li><a class="tabContentList" href="/almintelligence/">Analyst Reports</a></li>
+                        <li><a class="tabContentList" href="/podcastcenter/">Podcasts</a></li>
+                        <li><a class="tabContentList" href="/video/">Videos</a></li>
+                        <li><a class="tabContentList" href="/webcasts/">Webcasts</a></li>
+                    </ul>
+                </div>
+                <div class="tab-pane fade" id="v-pills-ranks" role="tabpanel" aria-labelledby="v-pills-ranks-tab">
+                        <ul class="nopadding menuContentList">
+                            <li><a class="tabContentList" href="https://www.law.com/americanlawyer/am-law-100/">Am Law 100</a></li>
+                            <li><a class="tabContentList" href="https://www.law.com/americanlawyer/am-law-200/">Am Law 200</a></li>
+                            <li><a class="tabContentList" href="https://www.law.com/international-edition/rankings/global-200/">Global 200</a></li>
+                            <li><a class="tabContentList" href="https://www.law.com/nationallawjournal/nlj-500/">NLJ 500</a></li>
+                            <li><a class="tabContentList" href="https://www.law.com/americanlawyer/a-list/">A-List</a></li>
+                            <li><a class="tabContentList" href="https://www.law.com/americanlawyer/diversity-scorecard/">Diversity Scorecard</a></li>
+                        </ul>
+                        <div class="seeAllPadding"><span><a href="/rankings/" class="contentTab-seeall" >Browse All <img class="see-all-icon-img" src="/assets/master-template/images/CCA-images/util-icons/menu-more-arrow.svg"></a></span></div>
+                        <div class="dropdown-item-border"></div>
+                </div>
+                <div class="tab-pane fade" id="v-pills-firms" role="tabpanel" aria-labelledby="v-pills-firms-tab">
+                        <ul class="nopadding menuContentList">
+                            <li><a class="tabContentList" href="/law-firm-profile/?id=173&name=Kirkland-%26-Ellis-LLP/">Kirkland & Ellis</a></li>
+                            <li><a class="tabContentList" href="/law-firm-profile/?id=178&name=Latham-%26-Watkins-LLP/">Latham & Watkins</a></li>
+                            <li><a class="tabContentList" href="/law-firm-profile/?id=20&name=Baker-McKenzie/">Baker McKenzie</a></li>                
+                            <li><a class="tabContentList" href="/law-firm-profile/?id=279&name=Skadden/">Skadden</a></li>
+                            <li><a class="tabContentList" href="/law-firm-profile/?id=242&name=DLA-Piper/">DLA Piper</a></li>
+                            <li><a class="tabContentList" href="/law-firm-profile/?id=163&name=Jones-Day/">Jones Day</a></li>
+                        </ul>
+                        <div class="seeAllPadding"><span><a href="/law-firms/" class="contentTab-seeall" >Browse All <img class="see-all-icon-img" src="/assets/master-template/images/CCA-images/util-icons/menu-more-arrow.svg"></a></span></div>
+                        <div class="dropdown-item-border"></div>
+                        <div class="dropdown-item"></div>
+                </div>
+                <div class="tab-pane fade" id="v-pills-pract" role="tabpanel" aria-labelledby="v-pills-pract-tab">
+                    <ul class="nopadding menuContentList">
+                        <li><a class="tabContentList" href="https://www.law.com/verdictsearch/featured-verdicts/">Verdict Search</a></li>
+                        <li><a class="tabContentList" href="/compass/">Law.com Compass</a></li>
+                        <li><a class="tabContentList" href="/clecenter/">CLE Center</a></li>
+                        <li><a class="tabContentList" href="https://www.chinalawandpractice.com/">China Law & Practice</a></li>
+                        <!--<li><a class="tabContentList" href="/insurance-coverage-law-center/">Insurance Coverage Law Center</a></li>-->
+                        <li><a class="tabContentList" href="https://www.lawjournalpress.com/">Law Journal Press</a></li>
+                        <li><a class="tabContentList" href="/lean-adviser/lessons/">Lean Adviser Legal</a></li>
+                        <li><a class="tabContentList" href="https://dictionary.law.com/">Legal Dictionary</a></li>
+                        <li><a class="tabContentList" href="https://lawjobs.com/">Law Jobs</a></li>
+                        <li><a class="tabContentList" href="https://www.lawcatalog.com/">Law Catalog</a></li>
+                        <li><a class="tabContentList" href="https://www.law.com/expert-witness/">Expert Witness Search</a></li>
+                        <li><a class="tabContentList" href="https://recruiters.law.com/">Recruiters Directory</a></li>
+                        <li><a class="tabContentList" href="/editorial-calendar/">Editorial Calendar</a></li>
+                        <!--<li><a class="tabContentList" href="/legalnewswire/latest/">Legal Newswire</a></li>-->
+                        <li><a class="tabContentList" href="https://lawyers.law.com/">Lawyer Pages</a></li>
+                    </ul>
+                    <div class="dropdown-item"></div>
+                </div>
+                <div class="tab-pane fade" id="v-pills-comms" role="tabpanel" aria-labelledby="v-pills-comms-tab">
+                    <ul class="nopadding menuContentList">
+                        <li><a class="tabContentList" href="/law-schools/">Law Schools</a></li>
+                        <li><a class="tabContentList" href="/corpcounsel/women-influence-power-in-law/">Women in Influence (WIPL)</a></li>
+                        <li><a class="tabContentList" href="/corpcounsel/gc-profiles/">GC Profiles</a></li>
+                        <li><a class="tabContentList" href="/special-reports/how-i-made-it/">How I Made It</a></li>
+                    </ul>
+                </div>
+                <div class="tab-pane fade" id="v-pills-all" role="tabpanel" aria-labelledby="v-pills-all-tab">
+                        <ul class="nopadding menuContentList">
+                            <li><a class="tabContentList" href="/events/">Events</a></li>
+                            <li><a class="tabContentList" href="https://dictionary.law.com/">Legal Dictionary</a></li>
+                            <li><a class="tabContentList" href="/instant-insights/">Instant Insights</a></li>
+                            <li><a class="tabContentList" href="/special-reports/">Special Reports</a></li>
+                            <li><a class="tabContentList" href="/resources/">Resource Center</a></li>
+                            <li><a class="tabContentList" href="/lma-member-benefits/">LMA Member Benefits</a></li>
+                            <li><a class="tabContentList" href="/legal-leaders/">Legal Leaders</a></li>
+                            <li><a class="tabContentList" href="/best-of/">Best Of</a></li>
+                            <li><a class="tabContentList" href="/trailblazers/">Trailblazers</a></li>
+                            <li><a class="tabContentList" href="https://recruiters.law.com/">Recruiters Directory</a></li>
+                            <li><a class="tabContentList" href="/expert-perspectives/">Expert Perspectives</a></li>
+                            <li><a class="tabContentList" href="https://www.law.com/expert-witness/">Expert Witness Search</a></li>
+                            <li><a class="tabContentList" href="https://lawjobs.com/">Lawjobs.com</a></li>
+                            <li><a class="tabContentList" href="http://www.lawcatalog.com/bookcenter?cmp=LAW_BOOKCENTER">Book Center</a></li>
+                            <li><a class="tabContentList" href="/clecenter/">CLE Center</a></li>
+                            <li><a class="tabContentList" href="/radar/">Law.com Radar</a></li>
+                            <li><a class="tabContentList" href="/professional-announcements/">Professional Announcements</a></li>
+                            <li><a class="tabContentList" href="/asset-and-logo-licensing/">Asset & Logo Licensing</a></li>
+                            <li><a class="tabContentList" href="/sitemap/">Sitemap</a></li>
+                        </ul>
+                </div>  
+            </form> <!-- end menuDropDown -->
+        </div> 
+        
+    </div>
+    <div id="menu-overlay" class="menu-overlay"></div>
+</div>
+        
+<div class="nav-box-bottom search-pos">
+    <div class="headerSearch">
+
+
+
+<form accept-charset="UTF-8" 
+  id="search-form"
+  action="/americanlawyer/search/">
+ 
+  <div class="search-container">
+    <div class="search-elements">
+      <div class="header-text">
+        <span class="search-text" >Search</span>
+      </div>
+      <div class="closeSearch" onclick="closeSearch()">
+          <p>Close</p>
+          <img class="close" alt="Close Search" src="/assets/master-template/images/close-btn.png">
+        </div>
+        <div class="search">
+          <input class="search-input" type="text" placeholder="Enter search keywords" 
+            size="10" 
+            value="" 
+            data-initial-search-term="" 
+            name="q" id="searchContent" 
+            onfocus="if(this.value==this.defaultValue) this.value=''; " 
+            onblur="if(this.value=='') this.value=this.defaultValue; if(this.value=='*') this.value='';" 
+          /> 
+          <div class="clearfix"></div>
+        </div>
+
+      <div class="clearfix"></div>
+      <div id="filtering-search">        
+          <div id="content-filters1">
+              <p class="filter-title">Content Source</p>              
+              <div>
+                <div class="radio-options international-content">
+                    <div>
+                        <input type="radio" id="lawcom"name="contentSource" value="law" >
+                        <label for="lawcom">Law.com Network of Sites  </label>
+                    </div>
+                        <div class="radioIndent">
+                            <input type="radio" id="lawbrand" name="publication" value="The American Lawyer" 
+                                       checked="checked" 
+                            >
+                            <label for="lawbrand">The American Lawyer</label><br>
+                        </div>
+                </div>
+                <div class="radio-options international-content">
+                  <label for="50" class="css-label" id="text-include">
+                  <span>
+                    Include International Edition
+                  </span>
+                    <input id="50" type="checkbox" name="source" 
+                      value="lgwk-contrib"  class="css-checkbox" 
+                                disabled
+                        />
+                    <span class="checkmark"></span>
+                  </label>
+                </div>
+              </div>
+              <div class="clearfix"></div>
+          </div>
+          <!-- content filters -->   
+
+        <div id="content-filters2">
+          <p class="filter-title">Content Type</p>
+            <div>
+              <div class="radio-options content-article">
+                <label for="51" class="css-label">Articles
+                  <input id="51" type="checkbox" 
+                    name="source" value="falcon" 
+                    class="css-checkbox"
+                  >
+                  <span class="checkmark"></span>
+                </label>
+                <label for="52" class="css-label">Cases
+                  <input id="52" type="checkbox" 
+                    name="source" value="decisions"
+ class="css-checkbox"
+                  >
+                  <span class="checkmark"></span>                  
+                </label>
+                <label for="54" class="css-label">Slideshows
+                  <input id="54" type="checkbox" 
+                    name="topic" value="slideshow"
+ class="css-checkbox"
+                  >
+                  <span class="checkmark"></span>
+                </label>
+              </div>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+
+        <!------class="css-label" class="css-checkbox" ------>
+        <div class="clearfix"></div>
+        
+        <div id="date-filters" class="dates-search">
+          <div class="content-date">
+            <label class="label-date">Start Date</label>
+            <input 
+              type="date" 
+              id="startDate" 
+              name="startDate" 
+              placeholder="Start Date:" 
+              data-date-format="yyyy-mm-dd" 
+              value="" 
+            />
+          </div>
+          <div class="content-date">
+            <label class="label-date">End Date</label>
+            <input 
+              type="date" 
+              id="endDate" 
+              name="endDate" 
+              placeholder="End Date:" 
+              data-date-format="yyyy-mm-dd" 
+              value="" 
+            />
+          </div>
+          <div class="clearfix"></div>
+        </div>  <!-- date filters --> 
+
+      </div><!-- end filtering -->
+      <div class="button-container">
+        <button class="button-search" name="button-search" type="submit" value="Search">
+          <span>Search</span>
+        </button>
+        <div class="cancelSearch" onclick="closeSearch()">
+          <p>Cancel</p>
+        </div>
+      </div>
+      <div class="ad-search">
+        <div id="gpt-vert4"></div>
+      </div>
+    </div><!-- end search elements -->
+  </div><!-- end search container -->
+       
+</form>
+
+<script type="text/javascript" >
+
+  function closeSearch(){
+    $("#search-form").hide();
+  }
+
+   $('#lawcom').change(function() {
+        if($(this).is(":checked")){       
+            $('#lawbrand').prop('checked', false);
+            $('#lawbrand').attr('checked', false);
+            $("#50").attr("disabled", false);
+        }else{
+            $('#lawbrand').prop('checked', true);
+            $('#50').prop('checked', false);
+            $('#50').attr('checked', false);
+            $("#50").attr("disabled", true);
+        }
+    });
+
+ $('#lawbrand').change(function() {
+        if($(this).is(":checked")){       
+            $('#lawcom').prop('checked', false);
+            $("#50").attr("disabled", true);
+            $('#50').attr('checked', false);
+        }else{
+            $('#lawcom').prop('checked', true);
+            $("#50").attr("disabled", false);
+        }
+    });
+
+  $('#52').change(function() {
+        if($(this).is(":checked")){
+          $('#52').attr('checked', true);
+          $('#54').attr('checked', false);
+          $("#54").attr("disabled", true);
+          
+        }else{
+          $('#52').attr('checked', false);
+          $('#54').attr('checked', false);
+          $("#54").attr("disabled", false);
+        }   
+    });
+    
+    $('#54').change(function() {
+        if($(this).is(":checked")){
+          $('#54').attr('checked', true);
+          $('#52').attr('checked', false);
+          $("#52").attr("disabled", true);
+          
+        }else{
+          $('#54').attr('checked', false);
+          $('#52').attr('checked', false);
+          $("#52").attr("disabled", false);
+        }   
+    }); 
+
+    function getUrlVars()
+    {
+            var vars = [], hash;
+            var hashes = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');
+            if(hashes.length>1){
+                if(hashes.includes("source=lgwk-contrib")){
+                     $('#50').attr('checked', true);
+                }
+                if(hashes.includes("source=falcon")){
+                    $('#51').attr('checked', true);
+                }
+                if(hashes.includes("source=decisions")){
+                    $('#52').attr('checked', true);
+                    $('#54').attr('checked', false);
+                    $('#54').attr('disabled', true);
+                }
+                if(hashes.includes("topic=slideshow")){
+                    $('#54').attr('checked', true);
+                    $('#52').attr('checked', false);
+                    $('#52').attr('disabled', true);
+                }
+            }else{
+                $('#51').attr('checked', true);
+            }
+    }
+
+    getUrlVars();
+    
+</script>
+    </div>
+    <a  id="searchIcon" onclick="openModalSearch()">
+        <span class="whiteText navSearchSize">
+            <img src="/assets/master-template/images/lawdo-images/svg-header-icons/search.svg">
+            <span><p class="navSearchTxt">SEARCH</p></span>
+        </span>
+    </a>
+    </div>
+    <div class="pro-btn p3">
+        <div class="nav-myldc mylaw"><a href="/mylaw/">MY LAW.COM<span>NEW</span></a></div>
+        <button type="button" class="btn btn-lg lawpro-button ">
+            <a href="/pro/" target="_blank">
+                <img class="responsive-lawpro-img" src="/assets/master-template/images/brand-logos/logo-brand-pro.png">
+            </a>
+        </button>
+    </div>
+  
+    <div class="header-padding">
+        <a href="/"><img class="lawlogo" src="/assets/master-template/images/brand-logos/Lawcom-white_042922.png"></a>
+    </div>
+  
+ 
+</div>
+         
+
+<nav class="navbar row mobileHeader displayMobile">
+  <div class="col-3 navbar-brand floatLeft whiteText no-margin">
+      <div class="nav-item dropdown floatLeft menu-mobile">
+        <a class="nav-link nopadding" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <span class="menuIcon">
+                <img class="header-icon" src="/assets/master-template/images/lawdo-images/svg-header-icons/menu.svg">
+            </span>
+        </a>
+        <form id="menuDropDownMobile" class="dropdown-menu whiteText menuDropDown" aria-labelledby="navbarDropdown">
+            <div class="col-12 close-search-margin">
+                <div id="menuCloseMobile" class="col-1 floatLeft closediv"><img class="close" alt="Close Menu" src="/assets/master-template/images/close-btn.png"></div>
+                
+                <div class="">
+                    <a href="/"><img class="lawlogo" src="/assets/master-template/images/brand-logos/Lawcom-white_042922.png"></a>
+                </div>
+            </div>
+            
+            <div class="col-12 w-100 mobileMenuMargin">
+                <div class="item">
+                    <img class="calendar-icon" src="/assets/master-template/images/lawdo-images/svg-header-icons/event.svg">
+                    <a id="iconSign" class="whiteText text-decoration-none" href="/events">
+                        <span>Events</span>
+                    </a>
+                </div>
+                
+                <div>
+                   
+                <a id="iconSign" class="item" href="https://store.law.com/Registration/Login.aspx?promoCode=TAL&source=https%3A%2F%2Fwww.law.com%2Famericanlawyer%2Flaw-firm-profile%2F%3Fid%3D9">
+                    <span class="accIcon">
+                        <img src="/assets/master-template/images/lawdo-images/svg-header-icons/my-account.svg">
+                    </span>
+                    <span class="myAccText"> Sign In</span>
+                </a>
+            
+                </div>
+                
+                <div class="">
+                    <nav class="jason">
+                        <ul class="sub-nav nopadding menuContentList">
+                            <li class="trigger item">
+                                <a class="trigger whiteText text-decoration-none">
+                                    <img class="globe-mobile" src="/assets/master-template/images/lawdo-images/svg-header-icons/region.svg">
+                                        United States
+                                </a>
+                                <div class="sub-nav">
+                                    <div class="outer edition">
+                                        <ul class="nav-topics USdropdown menuContentList" >
+                                            <div class="col-1-2 left">
+                                                <li class="USdropdownText"><a href="/" class="active-anchor"><img class="edition-active" src="/assets/master-template/images/lawdo-images/Arrow_Icon.png">United States</a></li>
+                                                <li class="IntText"><a href="/international-edition/">International</a></li>
+                                            </div>
+                                            <div class="clearfix"></div>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+            <div class="col-12 padding-button text-center w-100 floatLeft">
+                <button type="button" class="btn btn-lg lawpro-button ">
+                  <a href="/pro/" target="_blank">
+                  <img class="responsive-lawpro-img" src="/assets/master-template/images/brand-logos/logo-brand-pro.png">
+                  </a>
+                </button>
+            </div>
+            
+            <div class="col-12 floatLeft w-100 mobileNav">
+                <nav id="commTab" class="navbar mylaw">
+                    <div class="nav-link dropdown-item menuPanels"><a href="/mylaw/" class="navLink">My Law.com <span>NEW</span></a></div>
+                </nav>
+                <nav id="pubTab" class="navbar">
+                    <button id="pubButton" class="navbar-toggler w-100 text-left tabBorder collapsed" type="button" data-toggle="collapse" data-target="#content_Pub" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                      <span class="tabText">Publications</span>
+                    </button>
+
+                    <div class="collapse navbar-collapse" id="content_Pub">
+                        <ul class="nopadding menuContentList">
+                            <li><a class="tabContentList" href="/">Law.com</a></li>
+                            <li><a class="tabContentList" href="/radar/">Law.com Radar</a></li>
+                            <li><a class="tabContentList" href="/americanlawyer/">American Lawyer</a></li>
+                            <li><a class="tabContentList" href="/corpcounsel/">Corporate Counsel</a></li>
+                            <li><a class="tabContentList" href="/nationallawjournal/">National Law Journal</a></li>
+                            <li><a class="tabContentList" href="/legaltechnews/">Legal Tech News</a></li>
+                            <li><a class="tabContentList" href="/newyorklawjournal/">New York Law Journal</a></li>
+                            <li><a class="tabContentList" href="/thelegalintelligencer/">The Legal Intelligencer</a></li>
+                            <li><a class="tabContentList" href="/therecorder/">The Recorder</a></li>
+                            <li><a class="tabContentList" href="/ctlawtribune/">Connecticut Law Tribune</a></li>
+                            <li><a class="tabContentList" href="/dailybusinessreview/">Daily Business Review</a></li>
+                            <li><a class="tabContentList" href="/dailyreportonline/">Daily Report</a></li>
+                            <li><a class="tabContentList" href="/delbizcourt/">Delaware Business Court Insider</a></li>
+                            <!--<li><a class="tabContentList" href="/delawarelawweekly/">Delaware Law Weekly</a></li>-->
+                            <li><a class="tabContentList" href="/njlawjournal/">New Jersey Law Journal</a></li>
+                            <li><a class="tabContentList" href="/texaslawyer/">Texas Lawyer</a></li>
+                            <li><a class="tabContentList" href="/supremecourtbrief/">Supreme Court Brief</a></li>
+                            <li><a class="tabContentList" href="/litigationdaily/">Litigation Daily</a></li>
+                    </ul>
+                    <p class="membershipText">MEMBERSHIP PROGRAMS</p>  
+                    <ul class="menuContentList nopadding">
+                        <li><a class="tabContentList" href="/pro/">Law.com Pro</a></li>
+                        <li><a class="tabContentList" href="/pro-mid-market/">Law.com Pro Mid-Market</a></li>
+                        <li><a class="tabContentList" href="/global-leaders-in-law/">Global Leaders In Law</a></li>
+                        <li><a class="tabContentList" href="/global-leaders-in-law-advisers/">Global Leaders In Law Advisers</a></li>
+                        <li><a class="tabContentList" href="/private-client-global-elite/">Private Client Global Elite</a></li>
+                    </ul>
+                    </div>
+                </nav>
+                <nav id="topicsTab" class="navbar">
+                    <button id="topicsButton" class="navbar-toggler w-100 text-left tabBorder collapsed" type="button" data-toggle="collapse" data-target="#content_Topics" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                      <span class="tabText">Topics</span>
+                    </button>
+
+                    <div class="collapse navbar-collapse" id="content_Topics">
+                            <ul class="nopadding menuContentList">
+                              <li><a class="tabContentList" href="/topics/litigation/">Litigation</a></li>
+                              <li><a class="tabContentList" href="/topics/deals-and-transactions/">Deals & Transactions</a></li>
+                              <li><a class="tabContentList" href="/topics/law-firm-management/">Law Firm Management</a></li>
+                              <li><a class="tabContentList" href="/topics/legal-practice-management/">Legal Practice Management</a></li>
+                              <li><a class="tabContentList" href="/topics/legal-technology/">Legal Technology</a></li>
+                              <li><a class="tabContentList" href="/topics/intellectual-property/">Intellectual Property</a></li>
+                              <li><a class="tabContentList" href="/topics/cybersecurity/">CyberSecurity</a></li>
+                           </ul>
+                           <div class="seeAllPadding"><span><a href="/topics/" class="contentTab-seeall" >All Law Topics <img class="see-all-icon-img" src="/assets/master-template/images/CCA-images/util-icons/menu-more-arrow-white.svg"></a></span></div>
+
+                          </div>
+                </nav>
+                
+                <nav id="insightsTab" class="navbar">
+                    <button id="insightsButton" class="navbar-toggler w-100 text-left tabBorder collapsed" type="button" data-toggle="collapse" data-target="#content_Insights" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                      <span class="tabText">Insights & Analysis</span>
+                    </button>
+
+                    <div class="collapse navbar-collapse" id="content_Insights">
+                      <ul class="nopadding menuContentList">
+                            <li><a class="tabContentList" href="/static/briefings/">Briefings</a></li>
+                        <li><a class="tabContentList" href="http://www.lawjournalnewsletters.com/">Law Journal Newsletters</a></li>
+                        <li><a class="tabContentList" href="/almintelligence/">Analyst Reports</a></li>
+                        <li><a class="tabContentList" href="/podcastcenter/">Podcasts</a></li>
+                        <li><a class="tabContentList" href="/video/">Videos</a></li>
+                        <li><a class="tabContentList" href="/webcasts/">Webcasts</a></li>
+                        <li><a class="tabContentList" href="https://www.law.com/verdictsearch/featured-verdicts/">Verdict Search</a></li>
+                     </ul>
+                    </div>
+                </nav>
+                
+                <nav id="rankingsTab" class="navbar">
+                    <button id="rankingsButton" class="navbar-toggler w-100 text-left tabBorder collapsed" type="button" data-toggle="collapse" data-target="#content_Rankings" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                      <span class="tabText">Surveys & Rankings</span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="content_Rankings">
+                      <ul class="nopadding menuContentList">
+                        <li><a class="tabContentList" href="https://www.law.com/americanlawyer/am-law-100/">Am Law 100</a></li>
+                        <li><a class="tabContentList" href="https://www.law.com/americanlawyer/am-law-200/">Am Law 200</a></li>
+                        <li><a class="tabContentList" href="/international-edition/rankings/global-200/">Global 200</a></li>
+                        <li><a class="tabContentList" href="https://www.law.com/nationallawjournal/nlj-500/">NLJ 500</a></li>
+                        <li><a class="tabContentList" href="https://www.law.com/americanlawyer/a-list/">A-List</a></li>
+                        <li><a class="tabContentList" href="https://www.law.com/americanlawyer/diversity-scorecard/">Diversity Scorecard</a></li>
+                     </ul>
+                <div class="seeAllPadding"><span><a href="/rankings/" class="contentTab-seeall" >Browse All <img class="see-all-icon-img" src="/assets/master-template/images/CCA-images/util-icons/menu-more-arrow-white.svg"></a></span></div>
+                
+                    </div>
+                </nav>
+                
+                <nav id="firmsTab" class="navbar">
+                    <button id="firmsButton" class="navbar-toggler w-100 text-left tabBorder collapsed" type="button" data-toggle="collapse" data-target="#content_Firms" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                      <span class="tabText">Law Firms</span>
+                    </button>
+
+                    <div class="collapse navbar-collapse" id="content_Firms">
+                      <ul class="nopadding menuContentList">
+                        <li><a class="tabContentList" href="/law-firm-profile/?id=173&name=Kirkland-%26-Ellis-LLP/">Kirkland & Ellis</a></li>
+                        <li><a class="tabContentList" href="/law-firm-profile/?id=178&name=Latham-%26-Watkins-LLP/">Latham & Watkins</a></li>
+                        <li><a class="tabContentList" href="/law-firm-profile/?id=20&name=Baker-McKenzie/">Baker McKenzie</a></li>                
+                        <li><a class="tabContentList" href="/law-firm-profile/?id=279&name=Skadden/">Skadden</a></li>
+                        <li><a class="tabContentList" href="/law-firm-profile/?id=242&name=DLA-Piper/">DLA Piper</a></li>
+                        <li><a class="tabContentList" href="/law-firm-profile/?id=163&name=Jones-Day/">Jones Day</a></li>
+                     </ul>
+                <div class="seeAllPadding"><span><a href="/law-firms/" class="contentTab-seeall" >Browse All <img class="see-all-icon-img" src="/assets/master-template/images/CCA-images/util-icons/menu-more-arrow-white.svg"></a></span></div>
+                <div class="dropdown-item-border"></div>
+                    </div>
+                </nav>
+                
+                <nav id="practTab" class="navbar">
+                    <button id="practButton" class="navbar-toggler w-100 text-left tabBorder collapsed" type="button" data-toggle="collapse" data-target="#content_Pract" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                      <span class="tabText">Practice Tools & Resources</span>
+                    </button>
+
+                    <div class="collapse navbar-collapse" id="content_Pract">
+                      <ul class="nopadding menuContentList">
+                        <li><a class="tabContentList" href="https://www.law.com/verdictsearch/featured-verdicts/">Verdict Search</a></li>
+                        <li><a class="tabContentList" href="/compass/">Law.com Compass</a></li>
+                        <li><a class="tabContentList" href="/clecenter/">CLE Center</a></li>
+                        <li><a class="tabContentList" href="https://www.chinalawandpractice.com/">China Law & Practice</a></li>
+                        <!--<li><a class="tabContentList" href="/insurance-coverage-law-center/">Insurance Coverage Law Center</a></li>-->
+                        <li><a class="tabContentList" href="https://www.lawjournalpress.com/">Law Journal Press</a></li>
+                        <li><a class="tabContentList" href="/lean-adviser/lessons/">Lean Adviser Legal</a></li>
+                        <li><a class="tabContentList" href="https://dictionary.law.com/">Legal Dictionary</a></li>
+                        <li><a class="tabContentList" href="https://lawjobs.com/">Law Jobs</a></li>
+                        <li><a class="tabContentList" href="https://www.lawcatalog.com/">Law Catalog</a></li>
+                        <li><a class="tabContentList" href="https://www.law.com/expert-witness/">Expert Witness Search</a></li>
+                        <li><a class="tabContentList" href="https://recruiters.law.com/">Recruiters Directory</a></li>
+                        <li><a class="tabContentList" href="/editorial-calendar/">Editorial Calendar</a></li>
+                        <!--<li><a class="tabContentList" href="/legalnewswire/latest/">Legal Newswire</a></li>-->
+                        <li><a class="tabContentList" href="https://lawyers.law.com/">Lawyer Pages</a></li>
+                     </ul>
+                        
+                    </div>
+                </nav>
+                
+                <nav id="commTab" class="navbar">
+                    <button id="commButton" class="navbar-toggler w-100 text-left tabBorder collapsed" type="button" data-toggle="collapse" data-target="#content_Comm" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                      <span class="tabText">Communities</span>
+                    </button>
+
+                    <div class="collapse navbar-collapse" id="content_Comm">
+                      <ul class="nopadding menuContentList">
+                        <li><a class="tabContentList" href="/law-schools/">Law Schools</a></li>
+                        <li><a class="tabContentList" href="/corpcounsel/women-influence-power-in-law/">Women in Influence (WIPL)</a></li>
+                        <li><a class="tabContentList" href="/corpcounsel/gc-profiles/">GC Profiles</a></li>
+                        <li><a class="tabContentList" href="/special-reports/how-i-made-it/">How I Made It</a></li>
+                     </ul>
+                    </div>
+                </nav>
+                <nav id="commTab" class="navbar">
+                    <div class="nav-link dropdown-item menuPanels"><a href="/public-notice/" class="navLink">Public Notices</a></div>
+                </nav>
+                <nav id="commTab" class="navbar">
+                    <div class="nav-link dropdown-item menuPanels"><a href="https://store.law.com/Registration/Newsletters.aspx?promoCode=PAR&intcmp=source_website_medium_header_campaign_newsletterpagenewux2023_content_navlink_term_law" class="navLink">Newsletters</a></div>
+                </nav>
+                <nav id="allTab" class="navbar">
+                    <button id="allButton" class="navbar-toggler w-100 text-left tabBorder collapsed" type="button" data-toggle="collapse" data-target="#content_All" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                      <span class="tabText">All Sections</span>
+                    </button>
+
+                    <div class="collapse navbar-collapse" id="content_All">
+                            <ul class="nopadding menuContentList">
+                              <li><a class="tabContentList" href="/events/">Events</a></li>
+                              <li><a class="tabContentList" href="https://dictionary.law.com/">Legal Dictionary</a></li>
+                              <li><a class="tabContentList" href="/instant-insights/">Instant Insights</a></li>
+                              <li><a class="tabContentList" href="/special-reports/">Special Reports</a></li>
+                              <li><a class="tabContentList" href="/resources/">Resource Center</a></li>
+                              <li><a class="tabContentList" href="/lma-member-benefits/">LMA Member Benefits</a></li>
+                              <li><a class="tabContentList" href="/legal-leaders/">Legal Leaders</a></li>
+                              <li><a class="tabContentList" href="/best-of/">Best Of</a></li>
+                              <li><a class="tabContentList" href="/trailblazers/">Trailblazers</a></li>
+                              <li><a class="tabContentList" href="https://recruiters.law.com/">Recruiters Directory</a></li>
+                              <li><a class="tabContentList" href="/expert-perspectives/">Expert Perspectives</a></li>
+                              <li><a class="tabContentList" href="https://www.law.com/expert-witness/">Expert Witness Search</a></li>
+                              <li><a class="tabContentList" href="https://lawjobs.com/">Lawjobs.com</a></li>
+                              <li><a class="tabContentList" href="http://www.lawcatalog.com/bookcenter?cmp=LAW_BOOKCENTER">Book Center</a></li>
+                              <li><a class="tabContentList" href="/clecenter/">CLE Center</a></li>
+                              <li><a class="tabContentList" href="/radar/">Law.com Radar</a></li>
+                              <li><a class="tabContentList" href="/professional-announcements/">Professional Announcements</a></li>
+                               <li><a class="tabContentList" href="/asset-and-logo-licensing/">Asset & Logo Licensing</a></li>
+                              <li><a class="tabContentList" href="/sitemap/">Sitemap</a></li>
+                           </ul>
+                    </div>
+                </nav>
+                
+            </div>
+            
+            <div class="col-12 floatLeft w-100 text-center socialPadding">
+                <a href="https://twitter.com/lawdotcom" target="_blank"><img class="see-all-icon-img" src="/assets/master-template/images/CCA-images/util-icons/menu-twitter.png"></a>
+                <a href="https://www.linkedin.com/company/law-com/" target="_blank"><img class="see-all-icon-img" src="/assets/master-template/images/CCA-images/util-icons/menu-linkedin.png"></a>
+                <a href="https://www.facebook.com/LawdotcomALM/" target="_blank" ><img class="see-all-icon-img" src="/assets/master-template/images/CCA-images/util-icons/menu-facebook.png"></a>
+                <a href="http://feeds.feedblitz.com/law/legal-news/" target="_blank"><img class="see-all-icon-img" src="/assets/master-template/images/CCA-images/util-icons/menu-rss.png"></a>
+            </div>
+            
+            <div class="col-12 w-100 floatLeft aboutPad">
+                <p class="text-center noMargin"><a class="whiteText" href="/static/about-us/">About Us</a>&nbsp;|&nbsp;
+                <a class="whiteText" href="/static/contact-us/">Contact Us</a>&nbsp;|&nbsp;
+                <a class="whiteText" href="/sitemap/">Site Map</a></p>
+                <p class="text-center noMargin"><a class="whiteText" href="/static/advertise-with-us/">Advertise</a>&nbsp;|&nbsp;
+                <a class="whiteText" href="https://www.alm.com/contact-us/" target="_blank">Customer Service</a>&nbsp;|&nbsp;
+                <a class="whiteText" href="https://www.alm.com/terms-of-use/" target="_blank">Terms of Service</a></p>
+                <p class="text-center noMargin"><a class="whiteText" href="/static/frequently-asked-questions/">FAQ</a>&nbsp;|&nbsp;
+                <a class="whiteText" href="https://www.alm.com/privacy-policy-new/" target="_blank">Privacy Policy</a></p>
+            </div>
+            
+            <div class="col-12 w-100 text-center floatLeft menuCopyrightPad">
+                <p class="noMargin">Copyright © 2021 ALM Global, LLC.</p>
+                <p>All Rights Reserved.</p>
+            </div>
+            
+        </form>
+        </div>
+          
+        <div class="navbar-item floatLeft search-mobile">
+                <a href="/search/">
+                    <span class="whiteText navSearchSize">
+                        <img class="icon-search" src="/assets/master-template/images/lawdo-images/svg-header-icons/search.svg">
+                    <span>
+                        <p class="navSearchTxt"></p>
+                    </span>
+                    </span>
+                </a>
+        </div>
+   
+      
+      
+      
+  </div>
+    
+  <div class="col-6 text-center">
+  
+      <a href="/"><img class="lawlogo" src="/assets/master-template/images/brand-logos/Lawcom-white_042922.png"></a>
+      
+  </div>
+    <div id="myAccMobile" class="nav-item col-3 dropdown text-right">
+                <a id="iconSign" href="https://store.law.com/Registration/Login.aspx?promoCode=TAL&source=https%3A%2F%2Fwww.law.com%2Famericanlawyer%2Flaw-firm-profile%2F%3Fid%3D9">
+                    <span class="accIcon">
+                        <img src="/assets/master-template/images/lawdo-images/svg-header-icons/my-account.svg">
+                    </span>
+                </a>
+    </div>
+</nav>
+
+
+
+<script src="/assets/master-template/js/plc/header.js"></script>
+      </div>
+    </div>
+</div>
+
+
+<script src="//code.highcharts.com/highcharts.js"></script>
+<div class="container law-firm-profile">
+
+
+<div id="gpt-es_pushdown" style="text-align: center"></div>
+    <div id="leaderboard" class="container text-center">
+        <div id='gpt-top'></div>
+    </div>
+    <div class="clearfix"></div>
+    <div class="row">
+        <div class="col-md-12 main_content">
+            </div> <!-- close div col-md-12 -->
+        </div> <!-- close div row -->
+    </div> <!-- close div container -->
+    <div class="clearfix">&nbsp;</div>
+    <div id="leaderboard" class="container text-center">
+        <div id='gpt-top1'></div>
+    </div>
+</div>
+
+
+
+<div id="followit-overlay" style="display:none;">
+
+    <div class="followit">
+      <div class="inner">
+        <p>Get alerted any time new stories match your search criteria. Create an alert to follow a developing story, keep current on a competitor, or monitor industry news.</p>
+				<div class="clearfix spacer"></div>
+        <form id="CustomAlert">
+        <label class="field-label">Alert Name<span class="required">*</span></label>
+        <input type="text" id="AlertName" name="AlertName" placeholder="Give this alert a name" class="search placeholder-fallback" value='' style="width:375px;" size="10" maxlength="35"/>
+                    
+
+        <label class="field-label">Frequency<span class="required">*</span></label>
+        <select name="frequency" id="frequency">
+            <option id="" value="Daily">Daily</option>
+            <option id="Option1" value="Monday">Monday</option>
+            <option id="Option2" value="Tuesday">Tuesday</option>
+            <option id="Option3" value="Wednesday">Wednesday</option>
+            <option id="Option4" value="Thursday">Thursday</option>
+            <option id="Option5" value="Friday">Friday</option>
+            <option id="Option6" value="Saturday">Saturday</option>
+            <option id="Option7" value="Sunday">Sunday</option>
+        </select>
+
+
+        <label class="field-label">Time<span class="required">*</span></label>
+        <select id="ExecutionTime" name="ExecutionTime"></select>
+
+        <p class="OverwriteExistingContainer" style="text-align: center;"> 
+                <label style="display: inline-block;">Overwrite Existing Alert:</label>
+                <input id="OverwriteExisting" name="OverwriteExisting" type="checkbox">
+        </p>
+
+          <input type="hidden" name="Email" value=""/>
+          <input type="hidden" name="ExecutionTime" value=""/>  
+          <input type="hidden" id="SearchCode" name="SearchCode" value='lawfirm:""'/>
+          <input type ="hidden" id="searchURL" name="searchURL" value="https://www.law.com/search/" />
+
+        <p>
+                <a data-control="signin" class="signin sign-in-option button now" href="https://store.law.com/Registration/Login.aspx?source=//www.law.com//"  rel="nofollow">Sign In</a>
+          
+        </p>
+
+        </form>
+
+        <span class="ajaxStatus"></span>
+        <!-- <p id="errorResponse"></p> -->
+
+        <div class="alertThanksText">
+            <div class="title-bar">
+                <p class="title">Thank You!</p>
+            </div>
+            <div class="content">
+                <!-- <p>Your alert was successfully created and will be delivered to <a href="#">Email/Mobile</a></p> -->
+                <p>Don&rsquo;t forget you can visit <a href="https://store.law.com/Registration/MyAccount.aspx?promoCode=TAL#/CustomAlerts">MyAlerts</a> to manage your alerts at any time.</p>
+            </div>
+      </div>
+
+
+      <a onclick="toggle_visibility('followit-overlay');">
+      <img class="close" src="/assets/master-template/images/close-btn.png">
+    </a>
+      </div>
+    </div>
+
+    
+
+	</div>
+  <!-- followit cta overlay -->
+
+
+
+<script>
+/*Alerts Function*/
+ // Is this needed?
+document.addEventListener('DOMContentLoaded',function() {
+    var selectElement = ".nothing"; //just assigning a test variable for now -- where should this value come from?
+
+    //LocalExecutionTime; 00:00 (12 am) to 23:00 (11 pm) 
+    $('#ExecutionTime').html(''); 
+    for (var hour = 0; hour <= 23; hour++) 
+    { 
+        var option = '<option value="' + storeTimeConversion.getTimeStringFromHour(hour) + '" >' + storeTimeConversion.getDisplayTimeString(hour) + '</option>'; 
+        $('#ExecutionTime').append(option); 
+    } 
+
+    var d = new Date();
+    var n = d.getHours();
+    var z = "0";
+    var nn = n.toString();
+    if(n<10){
+        nn = z.concat(n.toString(), ":00");
+    }else{
+        nn = nn.concat(":00");
+    }
+
+    var selectobject=document.getElementById("ExecutionTime")
+    for (var i=0; i<selectobject.length; i++){
+         if (selectobject.options[i].value == nn)
+            selectobject.options[i].selected = true;
+    }
+
+    //LocalFrequency 
+    var options = ["On Demand", "Daily", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]; 
+    var defaultFrequency = "Daily"; 
+    for (var i = 0; i < options.length; i++) { 
+        var option = '<option value="' + options[i] + '" ' + (defaultFrequency.toLowerCase() == options[i].toLowerCase() ? 'selected' : '') + '>' + options[i] + '</option>'; 
+        $(selectElement).append(option); 
+    } 
+	
+});	
+    //Finally when the user hits the button to add the alert, here's the jquery code; I've stripped out the unnecessary stuff so there may be a bug:
+    function getCookie(name) {
+        var results = document.cookie.match(name + '=(.*?)(;|$)');
+        if (results)
+            return (unescape(results[1]));
+        else
+            return null;
+    }
+
+    var overwrite = true; //putting in for now -- not sure where it should come from (maybe error message)
+    var ajaxLoaderImg = new Image();
+    document.addEventListener('DOMContentLoaded',function() {
+        $(ajaxLoaderImg).attr('src', '/assets/master-template/images/ajax-loader.gif');
+    });
+    function addAlert(ID) {
+        $(".ajaxStatus").html(' Adding alert, please wait...');
+        $(".ajaxStatus").prepend(ajaxLoaderImg).show();		
+       
+	var thePublication = $('#publication').val();		
+	var localExecutionTime = $('#ExecutionTime').val();
+        var localFrequency = $('#frequency').val();
+        var utcExecutionTime = storeTimeConversion.convertTimeString(localExecutionTime, 'utc'); 
+        var utcFrequency = storeTimeConversion.getUtcDayFromLocal(localFrequency, localExecutionTime);
+		
+        var theAlertName =  $('#AlertName').val();	
+        theAlertName = $.trim(theAlertName); 
+        if (theAlertName === "null" || theAlertName === null || theAlertName === "") {
+            //alert("Name is required. Please supply a name for your alert.");
+            theAlertName =  $('#AlertName').val("ALERT NAME");
+            $(".ajaxStatus").html(' Click the Create Alert button to save your alert or rename it in the Alert Name field');
+            return false;
+        }
+        //alert("theAlertName field is:"+theAlertName);
+
+        
+        var theSearchUrl = $('#searchURL').val();
+        var theKeyWords =  $('#SearchCode').val(); 
+        theKeyWords = $.trim(theKeyWords); 
+        theKeyWords = encodeURIComponent(theKeyWords);  
+
+        thePublication = $.trim(thePublication); 
+        thePublication = encodeURIComponent(thePublication);  
+        thePublication = thePublication.replace('%26', 'and');
+
+        var query = 'query='+theKeyWords + "&publication=" + thePublication;
+        theSearchUrl += "?"+query;
+
+        if(console || console.log) {
+        console.log('search url:' + theSearchUrl);
+        console.log(query);
+        }
+
+        var storeURL = "https://store.law.com/Registration/JsonWebService.svc/UpdateCustomAlert";
+        //alert(storeURL);
+$('#CustomAlert').submit(function() {
+        $.ajax({            
+            url: storeURL,
+            crossDomain: true,
+            dataType: 'jsonp',
+            data: {
+                //UserAccount: encodeURIComponent(getCookie('userAccount')),
+                UserAccount: getCookie('userAccount'),
+                AlertID: 'null',
+                AlertName: theAlertName,				        
+                SearchCode: query,
+                SearchUrl: theSearchUrl, 
+                UtcFrequency: utcFrequency,
+                UtcExecutionTime: utcExecutionTime,
+                LocalFrequency: localFrequency,
+                LocalExecutionTime: localExecutionTime,
+			        
+                //OverwriteExisting: false,
+                OverwriteExisting: $("input[name='OverwriteExisting']").is(":checked"), 
+			        
+                //Active: $("input[name='active']").is(":checked")  			   
+                Active: true
+            },
+            success: function (data) {
+                if (data == null)
+                    $(".ajaxStatus").html(' <br>The alert was successfully added to your account.<br><br>').delay(5000).fadeOut();		
+
+			      
+                else if (data.ExceptionType && data.Message) { 
+                    $(".ajaxStatus").html(" <br><span style='color:red; font-weight:700;'>" + data.Message + "</span>");   
+                }
+                else { //Known error
+                    $(".ajaxStatus").html(" <br><span style='color:red; font-weight:700;'>" + data + "</span>");   
+                    //Look for the duplicate message here and offer the overwrite option
+			          
+                    if ( data.indexOf('That name is in use by another alert')!= -1 ) {
+                        //console.log("That name is in use by another alert - show the OverwriteExistingContainer");
+                        //show container with checkbox to overwrite the alert
+                        $('.OverwriteExistingContainer').show();	
+                        $(".ajaxStatus").html(" <br><span style='color:red; font-weight:700;'>An alert already exists with this name.</span>  Please check the <strong>Overwrite Existing Alert</strong> checkbox above and click the <strong>Create Alert</strong> button to continue, or change the name. "); 
+                        $("#AlertName").prop('disabled', true);
+                        return false;    				        
+                    } 
+			          	
+					   
+                } //End if/else
+			     
+                //show hidden thank you text
+                $('.alertThanksText').show().delay(5000).fadeOut();
+                window.setTimeout(function () { $('#followit-overlay').fadeOut(); }, 5000);
+	   
+                //manageAlertSearchLink 
+                $('#manageAlertSearchLink').show().delay(777);	
+					
+                //click the close button
+                window.setTimeout(function () { $('.close-brief').click(); }, 5000);	
+				
+                //return false;
+			        	
+            }, //End success function
+            error: function () { //jsonp calls don't use this
+                $(".ajaxStatus").html(' Unknown Error, please try again later.');
+            } //End error function
+
+        }); //End ajax call
+        return false;
+	 });	
+}
+//end Alerts Function*/
+</script>
+
+<div id="shareit-overlay" style="display:none;">
+
+    <div class="shareit share-tools">
+      <div class="inner">
+        <h2></h2>
+        <p>Choose How You Would Like to Share This Page</p>
+        <p class="share">
+          <a href="#" class="button fb"><i></i><span class="label">Facebook</span></a>
+          <a href="#" class="button tw"><i data-shorturl=""></i><span class="label">Twitter</span></a>
+          <a href="#" class="button li"><i></i><span class="label">LinkedIn</span></a>
+          <a href="#" class="button em email-topic"><i></i><span class="label">Email</span></a>
+        </p>
+
+        <div id="emailshare-multi" style="display: none;">
+            <div class="em-article-share-close">X</div>                            
+            <form id="emailArticle" method="post" action="" class="share-form">
+                <h4>Share with Email</h4>
+                <div class="control-group">
+                <input name="email" id="email-address" type="text" placeholder="RECIPIENT, SEPARATE MULTIPLE ADDRESSES WITH COMMAS" autocomplete="off" size="50">
+                </div>
+                <div class="control-group">
+                <textarea name="comment" id="comment" cols="48" rows="8" placeholder="Add a comment..." data-placeholder="Add a comment..." value=""></textarea>
+                </div>
+                <input type="hidden" name="theHeadline" id="theHeadline" value="">
+                <input type="hidden" name="theDescription" id="theDescription" value="">
+                <button type="submit" class="send-article">Send</button>
+                <div id="sendnow">sending now...</div>
+            </form>
+
+            <div class="thanks-multi">
+                <h4>Thank you for sharing!</h4>
+                <div>Your article was successfully shared with the contacts you provided.</div>
+            </div>
+        </div>
+
+
+      </div>
+    <a onclick="toggle_visibility('shareit-overlay');">
+      <img class="close" src="/assets/master-template/images/close-btn.png">
+    </a>
+    </div>
+
+
+
+	</div>
+  <!-- shareit cta overlay --> 
+
+
+<script type="text/javascript">
+    document.addEventListener('DOMContentLoaded',function() {
+        $("#AlertName").val($('h1').text());
+        $("#shareit-overlay h2").text($('h1').text());
+        $("input#theHeadline").val($('h1').text() + " Law Firm Profile");
+        $("input#theDescription").val($('p.description').text().split(".").shift()+".")
+    });
+</script>
+
+
+<!--------------------------->
+<!-- law.com footer --------->
+<!--------------------------->
+
+
+
+<div class="container">
+    <div id="ccFooter" class="row">
+        <div class="col-md-12 col-sm-12 col-xs-12 text-center p-30">
+            <a href="/americanlawyer/">
+            <img class="brandLogo" src="/assets/master-template/images/LAW_homepage_brandlogos/logo-brand-the-american-lawyer_1.png" alt="">
+            </a>
+             <p>The American Lawyer provides the most informed and trusted source of news, data, analysis and forecasting on the global business of law.</p>
+
+             <ul class="justify-content-center d-flex">
+                <li>
+                    <a href="https://twitter.com/lawdotcom" target="_blank" style="text-decoration:none;">
+                        <img class="footer-icon-sizing" src="/assets/master-template/images/CCA-images/social-media-icons/Twitter.svg" style="width:33px;" alt="Twitter">
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.linkedin.com/company/law-com/" target="_blank" style="text-decoration:none;">
+                        <img class="footer-icon-sizing" src="/assets/master-template/images/CCA-images/social-media-icons/Linkedin.svg"  style="width:33px;" alt="LinkedIn">
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.facebook.com/LawdotcomALM/" target="_blank" style="text-decoration:none;">
+                        <img class="footer-icon-sizing" src="/assets/master-template/images/CCA-images/social-media-icons/Facebook.svg"  style="width:33px;" alt="Facebook">
+                    </a>
+                </li>
+                <li>
+                    <a href="http://feeds.feedblitz.com/law/legal-news/" target="_blank" style="text-decoration:none;">
+                        <img class="footer-icon-sizing" src="/assets/master-template/images/CCA-images/social-media-icons/RSS.svg" style="width:33px;" alt="RSS">
+                    </a>
+                </li>
+            </ul>
+        </div>
+
+        <div class="col-md-3 col-sm-3 col-xs-12">
+            <h6>News</h6>
+            <ul>
+                <li><a href="/americanlawyer/latest-stories/">Latest stories</a></li>
+            </ul>
+        </div>
+
+        <div class="col-md-3 col-sm-3 col-xs-12">
+            <h6>Surveys & Rankings</h6>
+            <ul>
+                <li><a href="/americanlawyer/am-law-100/">AM Law 100</a></li>
+                <li><a href="/americanlawyer/am-law-200/">AM Law 200</a></li>
+                <li><a href="/americanlawyer/diversity-scorecard/">Diversity Scorecard</a></li>
+                <li><a href="/americanlawyer/a-list/">The A List</a></li>
+                <li><a href="/americanlawyer/pro-bono-report/">Pro Bono Report</a></li>
+            </ul>
+        </div>
+
+        <div class="col-md-3 col-sm-3 col-xs-12">
+            <h6>Special Packages</h6>
+            <ul>
+                <li><a href="/americanlawyer/special-reports/">Special Reports</a></li>
+                <li><a href="/americanlawyer/static/tal-special-supplements/">Special Supplements</a></li>
+            </ul>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-12">
+            <h6>American Lawyer</h6>
+            <ul>
+                <li><a href="/americanlawyer/current-issue/ ">Current Issue</a></li>
+                <li><a href="/americanlawyer/sitemap/">Sitemap</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<footer class="container" id="footer">
+
+    <a href="/"><img class="law-com" src="/assets/master-template/images/brand-logos/law-com.png" alt="law-com"></a>
+    <p>The industry-leading media platform offering competitive intelligence to prepare for today and anticipate opportunities for future success.</p>
+    <ul class="d-flex justify-content-center footer-links">
+        <li>
+            <a href="/static/about-us/">About Us</a>
+        </li>
+        <li>
+            <a href="/static/contact-us/">Contact Us</a>
+        </li>
+        <li>
+            <a href="/sitemap/">Site Map</a>
+        </li>
+        <li>
+            <a href="/static/advertise-with-us/">Advertise With Us</a>
+        </li>
+        <li>
+           <a href="/asset-and-logo-licensing/">Asset & Logo Licensing</a>
+         </li>
+        <li>
+            <a href="https://www.alm.com/contact-us/" target="_blank">Customer Service</a>
+        </li>
+        <li>
+            <a href="https://www.alm.com/terms-of-use/" target="_blank">Terms of Service</a>
+        </li>
+        <li>
+            <a href="/static/frequently-asked-questions/">FAQ</a>
+        </li>
+        <li>
+            <a href="https://www.alm.com/privacy-policy-new/" target="_blank">Privacy Policy</a>
+        </li>
+    </ul>
+    <!---->
+    
+    <div class="d-flex text-center justify-content-center align-items-center copyrightText">
+        <img class="alm-logo" src="/assets/master-template/images/brand-logos/logo-alm.png" alt="alm-logo">
+        <span>Copyright &copy; 2024 ALM Global, LLC. All Rights Reserved.</span>
+    </div>
+</footer>
+
+
+<!-- footer programmatic js files -->
+<script type="text/javascript" src="https://store.law.com/Registration/js/overlayForm.js" data-name="store-overlay" async></script>
+<script type="text/javascript" src="/assets/master-template/js/tealium.js?2024-11-23-17" data-name="tealium" async></script>
+<script type="text/javascript" src="/assets/js/core/jquery.touchSwipe.js?2024-11-23-17" data-name="master-core-funcs" async></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.11.0/underscore-min.js?2024-11-23-17" data-name="underscore" async></script>
+<script type="text/javascript" src="/assets/js/core/jquery.history.js?2024-11-23-17" data-name="jquery-history" async></script>
+<script type="text/javascript" src="https://store.law.com/registration/js/TimeConversion.js?2024-11-23-17" data-name="store-time-conversion" ></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js" data-name="moment-js" ></script>
+<script type="text/javascript" src="/assets/master-template/js/plc/sponsorships.js?2024-11-23-17" data-name="plc-sponsorships-js" async></script>
+<script type="text/javascript" src="/assets/master-template/js/release/cookie-consent.min.js?2024-11-23-17" data-name="cookie-min-js" async></script>
+
+
+
+
+<style>
+
+#ad-hero.scrolled {position:fixed; top:0; z-index:10000000; }
+
+@media only screen and (max-width: 1023px) {
+#ad-hero {background-color: #333;}
+#ad-hero.scrolled {position:fixed; top:0; z-index:10000000; }
+.main-nav-grey.scrolled.hero-adjust {position:fixed; top:300px; z-index:10000000; }
+
+}
+</style>
+
+
+
+
+
+<script>
+
+document.addEventListener('DOMContentLoaded',function() { $(".mini-burger").on("click",function() { if($(".side-nav").length > 0) { $(".main-nav-left img,.side-nav img").each(function(){ var thisImg = $(this).attr("data-menuimg"); $(this).attr("src",thisImg); }); } if($("#side-nav").length > 0) { $(".main-nav-left img,#side-nav img").each(function(){ var thisImg = $(this).attr("data-menuimg"); $(this).attr("src",thisImg); }); } }); if($(".my-account").length >0) { $(".my-account").on("mouseover",function() { for(i = 0; i < $(".mini-icon").length; i++) { var thisImg = $(".mini-icon:eq("+i+")").attr("data-menuimg"); $(".mini-icon:eq("+i+")").attr("src",thisImg); } }); }});
+</script>
+<script>
+    (function() {
+    var d=document,h=d.getElementsByTagName('head')[0],s=d.createElement('script'),sc = 'https:' == document.location.protocol ? 'https://' : 'http://';
+    s.type='text/javascript';
+    s.async=true;
+    s.src=sc+'s.dpmsrv.com/dpm_ff1eb8bd6cb17940ab78c0eeecf66268772f2061.min.js';
+    h.appendChild(s);
+    })();
+</script>
+
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'8e7470b39dd1abee',t:'MTczMjM5OTMxMi4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+
+</html>
+
+
